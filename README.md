@@ -1,10 +1,9 @@
 # Prerendering-test-env
 
 
-This repository contains only the HTML files used to test [`<link rel="prerender">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#rel-prerender) behavior using local virtual hosts (e.g. `home.local`, `victim.home.local`) with a Caddy or Nginx web server.
+This repository contains only the HTML files used to test [`<link rel="prerender">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#rel-prerender) behavior using local virtual hosts (e.g. `home.local`, `victim.home.local`) with a Caddy.
 
 > ⚠️ Only the `html/` directory is tracked in this repository.  
-> Local configuration files (e.g., `Caddyfile`, `docker-compose.yml`, `default.conf`) are excluded via `.gitignore`.
 
 ---
 
